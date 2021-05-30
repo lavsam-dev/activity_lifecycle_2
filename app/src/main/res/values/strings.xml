@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">activity_lifecycle_2</string>
+    <string name="click_count">Click Count %d</string>
+    <string name="btn_click_me">Click me</string>
 </resources>
