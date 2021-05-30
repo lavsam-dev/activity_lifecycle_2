@@ -44,9 +44,9 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
         });
 
         if (savedInstanceState == null) {
-            logCycle("create first time");
+            logCycle("Create first time");
         } else {
-            logCycle("recreate");
+            logCycle("Recreate");
         }
     }
 
